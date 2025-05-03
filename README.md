@@ -1,1 +1,1 @@
-# CIL_Measurement_Device
+# CIL_Clar_Geological_Compass
